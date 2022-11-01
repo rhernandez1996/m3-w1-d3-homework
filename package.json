@@ -1,0 +1,28 @@
+{
+  "name": "m3-w1-d3-homework",
+  "version": "1.0.0",
+  "description": "pug homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "git repository, keywords",
+    "start": "node server",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhernandez1996/m3-w1-d3-homework.git"
+  },
+  "author": "Rayven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhernandez1996/m3-w1-d3-homework/issues"
+  },
+  "homepage": "https://github.com/rhernandez1996/m3-w1-d3-homework#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
